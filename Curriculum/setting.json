@@ -1,9 +1,0 @@
- {
-    " python.linting.pycodestyleEnabled " : verdadero ,
-    " python.linting.enabled " : verdadero ,
-    " python.formatting.provider " : " negro " ,
-    " editor.formatOnSave " : verdadero ,
-    " editor.formatOnType " : verdadero ,
-    " python.linting.pycodestyleArgs " : [ " --max-line-length = 180 " ],
-    
-}
